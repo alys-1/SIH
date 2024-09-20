@@ -1,0 +1,40 @@
+label {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.MDBRow {
+  margin-bottom: 15px;
+}
+
+.MDBInput,
+.MDBRadio {
+  width: 100%;
+}
+
+.text-center {
+  text-align: left; /* Ensures the text is aligned to the left */
+}
+
+.d-flex {
+  display: flex;
+  align-items: center;
+}
+.registerbtn {
+  color: #fff;
+  font-size: 17px;
+  line-height: 29px;
+  background: #052501;
+  border: #052501 solid 1px;
+  padding: 12px 40px;
+  display: inline-block;
+  width: 231px;
+  text-align: center;
+  border-radius: 18px;
+  text-decoration: none; /* Added to remove underline */
+}
+.registerbtn {
+  color: #fff;
+  background: #4bc714;
+  border: #4bc714 solid 1px;
+}

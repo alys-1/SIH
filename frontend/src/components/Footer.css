@@ -1,0 +1,143 @@
+.footer {
+  background: #052501;
+  padding: 90px 0px;
+}
+#mylogo {
+  width: 100px;
+}
+#footerp {
+  text-align: justify;
+  width: 18rem;
+}
+
+ul.loca li {
+  color: #fff;
+  padding-bottom: 10px;
+  display: flex;
+  font-size: 16px;
+  flex-wrap: wrap;
+}
+
+ul.loca li:last-child {
+  padding-right: 0;
+}
+
+ul.loca li a {
+  padding-right: 16px;
+  color: #fff;
+  margin-top: 4px;
+}
+
+ul.Links_footer {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  float: left;
+}
+
+ul.Links_footer li a {
+  display: block;
+  color: #fff;
+  font-size: 17px;
+  padding-left: 16px;
+  margin-top: -34px;
+}
+
+ul.Links_footer li a:hover {
+  color: #30880d;
+}
+
+ul.Links_footer li {
+  padding-bottom: 15px;
+  color: #3e7f21;
+}
+
+.hhh {
+  margin-bottom: 15px;
+}
+
+.footer .newsletter h3 {
+  color: #fff;
+  font-size: 17px;
+  line-height: 30px;
+  display: block;
+  padding-bottom: 25px;
+  text-transform: uppercase;
+}
+
+.footer .address .form-control {
+  padding: 10px 15px;
+  border: #ddd solid 1px;
+  margin-bottom: 20px;
+  box-shadow: inherit;
+  border-radius: 10px;
+}
+
+.address h3 {
+  color: #fff;
+  font-size: 29px;
+  font-weight: 500;
+  padding-top: 15px;
+  padding-bottom: 3px;
+  border-bottom: #3e7f21 solid 4px;
+  margin-bottom: 20px;
+  width: 226px;
+}
+
+.address img {
+  padding-bottom: 10px;
+}
+
+.address p {
+  color: #fff;
+  padding-bottom: 20px;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.form-control:focus,
+.form-control:hover {
+  border: #ddd solid 1px !important;
+}
+
+.footer .address .submit-btn {
+  padding: 8px 45px;
+  border: #30880d solid 1px;
+  background: #30880d;
+  color: #fff;
+  font-weight: 500;
+  font-size: 19px;
+  border-radius: 10px;
+}
+
+.footer .address .submit-btn:hover {
+  background: #fff;
+  border: #fff solid 1px;
+  color: #30880d;
+}
+
+.copyright {
+  background: #30880d;
+  padding: 20px 0px;
+}
+
+.copyright p {
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.copyright a {
+  color: #ffff;
+}
+
+.copyright a:hover {
+  color: #000;
+}
+
+.btn-primary.focus,
+.btn-primary:focus {
+  box-shadow: inherit;
+}
